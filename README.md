@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=INIS2)](https://github.com/INIS2/github-readme-stats)
+
 <!--
 **INIS2/INIS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
